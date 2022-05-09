@@ -5,6 +5,7 @@ module ru.gb {
     requires io.netty.codec;
     requires io.netty.buffer;
     requires common;
+    requires java.sql;
     opens ru.gb to javafx.fxml;
     exports ru.gb;
 }

@@ -23,7 +23,7 @@ public class Server
   private EventLoopGroup mainGroup;
   private EventLoopGroup workerGroup;
 
-  static final int PORT = 8800;
+  static final int PORT = 8880;
   static final String STORAGE_DIR = "server/server_storage";
 
 

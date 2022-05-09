@@ -62,7 +62,7 @@ public class Controller
   @FXML
   ListView<String> lstFilesInCloud;
 
-  private static final int THREAD_MAX_COUNT = 2;
+  private static final int THREAD_MAX_COUNT = 3;
 
 
   @Override
