@@ -1,41 +1,23 @@
 
-S
-#src/main/java/ru/gb/Controller.java,4\9\492721510c9e26312ce5340a70a50323acd33729
-S
-#src/main/java/ru/gb/FileSender.java,b\7\b7cae15b96ac6258f8de0927d2567b93845303e7
 X
 (src/main/java/ru/gb/LoginController.java,a\a\aab2bed733bf5b22a86b605c3bee8018837d814e
-V
-&src/main/java/ru/gb/NetConnection.java,f\b\fb72a106349ca890e714d5fc8cd2006080afbcf5
-P
- src/main/java/ru/gb/UIutils.java,2\1\217b870f35b3c06bea361ca616cf99e386092ac9
 R
 "server/.github/workflows/build.yml,e\c\ecc7738600ad274db5d1fc4e7ab2b4ac4f1206b8
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-D
-common/lombok.config,f\5\f57c63e06e9a21f138f3523d3a247b96fb6a146e
 >
 common/LICENSE,7\e\7ec620774f7df3e6a8388fa3014deb0af2e86114
 A
 common/.gitignore,e\6\e6e321f26cc4ed7de012d3d8e8ee932519d9540e
 N
 common/.pre-commit-config.yaml,0\0\00842efe4f13fc3b8f9e885ed38c60975b8127bf
-R
-"common/.github/workflows/build.yml,d\f\dfc335e3dc41ac985183a384ad41e077422baee0
 N
 server/.pre-commit-config.yaml,8\6\86e3ddac8aef0160f65ffa3f92e7a00336f2ae8c
-D
-server/lombok.config,0\b\0bc4d8312b446bc6ce0bb0473c24821ab3357995
 >
 server/LICENSE,e\e\ee7d1667282b8b400cf1a245249876882af08277
 A
 server/.gitignore,6\8\684633b668b24c06fe5d5ba72b7ed42a437aa655
-L
-src/main/java/ru/gb/App.java,0\6\06a4d5e4a651369f2973a9248dd83856ee4dd751
-_
-/server/src/test/java/ru/gb/ApplicationTest.java,3\7\37ddfb5e65f5db34e73342788b7315c403110ffe
 c
 3common/src/main/java/ru/gb/commons/AuthCommand.java,6\2\6264674e68a973317a9d98bd2f202d6fc63989d5
 b
